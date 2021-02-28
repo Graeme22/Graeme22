@@ -1,8 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-### <div align="center">I'm Graeme, a senior at the University of Idaho studying computer science.</div>  
+ 
+## Hello!
+I'm Graeme, a senior at the University of Idaho studying computer science. I'm especially interested in software engineering and data science.
+If you want to check out some of my projects, take a look at the pins below!
  
 ## Skills  
 <table><tr><td valign="top" width="50%">
