@@ -1,1 +1,2 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Graeme22&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=Graeme22&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Graeme22" align="right"/>
