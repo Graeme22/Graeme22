@@ -15,7 +15,6 @@
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
       <img src="https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000" />
       <img src="https://img.shields.io/badge/Sphinx-000?logo=sphinx&logoColor=fff" />
-      <img src="https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff" />
       <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff" />
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
